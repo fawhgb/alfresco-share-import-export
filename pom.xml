@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.atolcd.alfresco</groupId>
 	<artifactId>share-import-export</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>alfresco-share-import-export</name>
 	<description>alfresco-share-import-export JAR Module (to be included in repo and share parts)</description>
 	<packaging>jar</packaging>
